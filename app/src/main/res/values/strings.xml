@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BCA6sem</string>
+    <string-array name="Provience_items">
+        <item>Bagmati</item>
+        <item>Gandaki</item>
+        <item>Koshi</item>
+        <item>Lumbini</item>
+    </string-array>
+</resources>
+
